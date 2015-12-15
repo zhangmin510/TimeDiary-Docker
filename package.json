@@ -1,0 +1,20 @@
+{
+  "name": "TimeDiary-Docker",
+  "version": "1.0.0",
+  "description": "TimeDiary Docker version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmin510/TimeDiary-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmin510/TimeDiary-Docker/issues"
+  },
+  "homepage": "https://github.com/zhangmin510/TimeDiary-Docker#readme"
+}
