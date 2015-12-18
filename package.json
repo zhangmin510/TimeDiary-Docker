@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/zhangmin510/TimeDiary-Docker/issues"
   },
-  "homepage": "https://github.com/zhangmin510/TimeDiary-Docker#readme"
+  "homepage": "https://github.com/zhangmin510/TimeDiary-Docker#readme",
+  "engines": {
+    "node": "4.2.3"
+  },
+  "dependencies": {
+    "commander": "~2.9.0",
+    "cliff": "~0.1.10",
+    "should": "~8.0.1",
+    "async": "~1.5.0"
+  }
 }
